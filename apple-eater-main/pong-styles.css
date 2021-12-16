@@ -14,7 +14,7 @@ body {
   border: 5px solid black;
   left: 0;
   position: absolute;
-  background-image: url("Catbackground.jpeg");
+  background-image: url("images.jpeg");
   background-size: cover;
 }
 
