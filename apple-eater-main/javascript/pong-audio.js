@@ -8,7 +8,7 @@ class soundFile {
   constructor(file, deferPlay) {
     //this.deferPlay = false;
     this.player = new Tone.Player({
-      url: "https://housercaspar.github.io/apple-eater/sounds/" + file,
+      url: "https://github.com/TrinityMc3/Orange/blob/main/apple-eater-main/Project%203%20-%2012_21_21%2C%203.23%20PM.m4a" + file,
       loop: false,
       autostart: false
     }).toMaster();
